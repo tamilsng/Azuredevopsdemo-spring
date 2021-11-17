@@ -1,7 +1,7 @@
 #test spring application
 
 trigger:
-- main
+- master
 
 pool:
   vmImage: ubuntu-latest
